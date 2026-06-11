@@ -1,10 +1,10 @@
-# 🌿 Peace Farm Booking System
+#  Peace Farm Booking System
 
 A web-based application built using **Spring MVC, JSP, Hibernate (JPA), and MySQL** that allows users to register, log in, and book their favorite farm destinations.
 
 ---
 
-## 📌 Features
+##  Features
 
 - User Registration
 - User Login Authentication
@@ -17,7 +17,7 @@ A web-based application built using **Spring MVC, JSP, Hibernate (JPA), and MySQ
 
 ---
 
-## 🚀 Application Flow
+##  Application Flow
 
 ### 1. Start the Application
 
@@ -73,7 +73,7 @@ Users can view all their bookings along with:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - Spring MVC
@@ -86,7 +86,7 @@ Users can view all their bookings along with:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/main/java
@@ -113,7 +113,7 @@ src/main/webapp
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Import the project into Eclipse or IntelliJ IDEA.
 2. Configure MySQL database and persistence settings.
@@ -132,7 +132,7 @@ http://localhost:8080/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Payment Integration
 - Booking Cancellation
@@ -143,7 +143,7 @@ http://localhost:8080/
 
 ---
 
-## 👨‍💻 Developed Using
+##  Developed Using
 
 - Spring MVC
 - Hibernate (JPA)
@@ -153,4 +153,4 @@ http://localhost:8080/
 
 ---
 
-### 🌱 Enjoy booking your favorite farm destination with Peace Farm!
+###  Enjoy booking your favorite farm destination with Peace Farm!
